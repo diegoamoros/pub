@@ -14,3 +14,4 @@ vcbcvbvcbvcbcvb
 rama1
 
 prueba PULL LOCAL
+prueba PULL CLOUD
